@@ -1,16 +1,18 @@
-## Hi there 👋
+![version-control development](https://media1.giphy.com/media/v1.Y2lkPTdiYzJhNDkwcXk2ZWR5dTNmbXR5djFicDhvdGlnNDl2dW12YjBpdHJuMHB4d2Q1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U3UnKI6LjrsPqCGgf9/giphy.gif)
 
-<!--
-**weeqeecombe50/weeqeecombe50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Einführung
+Hallo! Ich bin weeqeecombe50, ein leidenschaftlicher Softwareentwickler mit Erfahrung in verschiedenen Webtechnologien.
 
-Here are some ideas to get you started:
+# Fähigkeiten
+- Webentwicklung (HTML, CSS, JavaScript)
+- Backend-Entwicklung (Node.js, Python)
+- Datenbanken (MySQL, MongoDB)
+- Versionskontrolle (Git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projekte
+- [Projekt 1](https://github.com/weeqeecombe50/projekt1): Eine Webanwendung zur Verwaltung von Aufgaben.
+- [Projekt 2](https://github.com/weeqeecombe50/projekt2): Ein E-Commerce-Portal mit benutzerfreundlicher Oberfläche.
+
+# Kontakte
+- E-Mail: weeqeecombe50@example.com
+- LinkedIn: [linkedin.com/in/weeqeecombe50](https://linkedin.com/in/weeqeecombe50)
